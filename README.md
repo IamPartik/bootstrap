@@ -1,1 +1,2 @@
-#bootstrap feladatok
+#BÚTSZTREPP FELADATOK
+"Bútsztrepp my beloved" (eZ)
