@@ -1,11 +1,15 @@
 body{
   color: #293647;
+  margin-top: 0px;
+  margin: auto;
+  margin-bottom: 15px;
 }
 
 .bg-fej {
   background-position: center;
   height: 250px;
   padding-top: 75px;
+  background-image: url(drukletters.jpg);
 }
 
 .bg-fej h1{
